@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/secondpage/static/js/main.0f946b4a.js",
+    "main.js": "/secondpage/static/js/main.a6f38e48.js",
     "index.html": "/secondpage/index.html",
-    "main.0f946b4a.js.map": "/secondpage/static/js/main.0f946b4a.js.map"
+    "main.a6f38e48.js.map": "/secondpage/static/js/main.a6f38e48.js.map"
   },
   "entrypoints": [
-    "static/js/main.0f946b4a.js"
+    "static/js/main.a6f38e48.js"
   ]
 }
